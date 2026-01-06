@@ -2,7 +2,7 @@
 
 > Empower Small Language Models (SLMs) to act as active controllers, invoking Large Language Models (LLMs) only for critical tokens. Achieve expert-level reasoning with minimal cost.
 
-Check out our [paper](https://arxiv.org/abs/XXXX.XXXXX)for the details.
+Check out our [paper](https://arxiv.org/abs/XXXX.XXXXX) and [models](https://huggingface.co/collections/HINT-lab/relayllm) for the details.
 
 ## 🔥 Updates
 
