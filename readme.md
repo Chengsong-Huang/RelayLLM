@@ -2,11 +2,11 @@
 
 > Empower Small Language Models (SLMs) to act as active controllers, invoking Large Language Models (LLMs) only for critical tokens. Achieve expert-level reasoning with minimal cost.
 
-Check out our [paper](https://arxiv.org/abs/XXXX.XXXXX) and [models](https://huggingface.co/collections/HINT-lab/relayllm) for the details.
+Check out our [paper](https://arxiv.org/abs/2601.05167v1) and [models](https://huggingface.co/collections/HINT-lab/relayllm) for the details.
 
 ## 🔥 Updates
 
-- **[2026-01-08]** We released our [paper](https://arxiv.org/abs/XXXX.XXXXX) and code. RelayLLM achieves **98.2%** cost reduction compared to random routers while bridging the performance gap between SLMs and LLMs!
+- **[2026-01-08]** We released our [paper](https://arxiv.org/abs/2601.05167v1) and code. RelayLLM achieves **98.2%** cost reduction compared to random routers while bridging the performance gap between SLMs and LLMs!
 
 ## 🧩 Overview
 
@@ -78,5 +78,14 @@ Our framework is directly based on the great work of [**EasyR1**](https://github
 
 ## 💬 Citation
 If our work is useful for you, please consider citing our paper:
-``` 
+```
+@misc{huang2026relayllmefficientreasoningcollaborative,
+      title={RelayLLM: Efficient Reasoning via Collaborative Decoding}, 
+      author={Chengsong Huang and Tong Zheng and Langlin Huang and Jinyuan Li and Haolin Liu and Jiaxin Huang},
+      year={2026},
+      eprint={2601.05167},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.05167}, 
+}
 ```
