@@ -5,7 +5,7 @@
 Check out our [paper](https://arxiv.org/abs/2601.05167v1) and [models](https://huggingface.co/collections/HINT-lab/relayllm) for the details.
 
 ## 🔥 Updates
-
+- **[2026-08-20]** RelayLLM is accepted by EMNLP as finding paper.
 - **[2026-01-08]** We released our [paper](https://arxiv.org/abs/2601.05167v1) and code. RelayLLM achieves **98.2%** cost reduction compared to random routers while bridging the performance gap between SLMs and LLMs!
 
 ## 🧩 Overview
